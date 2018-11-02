@@ -1,0 +1,6 @@
+C:\Users\jowiesny\source\repos\Assessment4\InterfaceAndVirtualMethods\InterfaceAndVirtualMethods\bin\Debug\InterfaceAndVirtualMethods.exe.config
+C:\Users\jowiesny\source\repos\Assessment4\InterfaceAndVirtualMethods\InterfaceAndVirtualMethods\bin\Debug\InterfaceAndVirtualMethods.exe
+C:\Users\jowiesny\source\repos\Assessment4\InterfaceAndVirtualMethods\InterfaceAndVirtualMethods\bin\Debug\InterfaceAndVirtualMethods.pdb
+C:\Users\jowiesny\source\repos\Assessment4\InterfaceAndVirtualMethods\InterfaceAndVirtualMethods\obj\Debug\InterfaceAndVirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\jowiesny\source\repos\Assessment4\InterfaceAndVirtualMethods\InterfaceAndVirtualMethods\obj\Debug\InterfaceAndVirtualMethods.exe
+C:\Users\jowiesny\source\repos\Assessment4\InterfaceAndVirtualMethods\InterfaceAndVirtualMethods\obj\Debug\InterfaceAndVirtualMethods.pdb

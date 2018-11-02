@@ -1,0 +1,6 @@
+C:\Users\jowiesny\source\repos\Assessment4\RefactoringDebugging\RefactoringDebugging\bin\Debug\RefactoringDebugging.exe.config
+C:\Users\jowiesny\source\repos\Assessment4\RefactoringDebugging\RefactoringDebugging\bin\Debug\RefactoringDebugging.exe
+C:\Users\jowiesny\source\repos\Assessment4\RefactoringDebugging\RefactoringDebugging\bin\Debug\RefactoringDebugging.pdb
+C:\Users\jowiesny\source\repos\Assessment4\RefactoringDebugging\RefactoringDebugging\obj\Debug\RefactoringDebugging.csproj.CoreCompileInputs.cache
+C:\Users\jowiesny\source\repos\Assessment4\RefactoringDebugging\RefactoringDebugging\obj\Debug\RefactoringDebugging.exe
+C:\Users\jowiesny\source\repos\Assessment4\RefactoringDebugging\RefactoringDebugging\obj\Debug\RefactoringDebugging.pdb
